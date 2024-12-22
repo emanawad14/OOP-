@@ -1,0 +1,11 @@
+D:\Telegram Desktop\ConsoleApp1\Common\bin\Debug\net8.0\Common.deps.json
+D:\Telegram Desktop\ConsoleApp1\Common\bin\Debug\net8.0\Common.dll
+D:\Telegram Desktop\ConsoleApp1\Common\bin\Debug\net8.0\Common.pdb
+D:\Telegram Desktop\ConsoleApp1\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telegram Desktop\ConsoleApp1\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\Telegram Desktop\ConsoleApp1\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\Telegram Desktop\ConsoleApp1\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\Telegram Desktop\ConsoleApp1\Common\obj\Debug\net8.0\Common.dll
+D:\Telegram Desktop\ConsoleApp1\Common\obj\Debug\net8.0\refint\Common.dll
+D:\Telegram Desktop\ConsoleApp1\Common\obj\Debug\net8.0\Common.pdb
+D:\Telegram Desktop\ConsoleApp1\Common\obj\Debug\net8.0\ref\Common.dll
